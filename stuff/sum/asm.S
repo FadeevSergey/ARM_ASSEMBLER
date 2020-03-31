@@ -12,5 +12,4 @@ summ:
 
     cmp r1, #0
     bgt summ
-    mov r1, r0
     bx lr
